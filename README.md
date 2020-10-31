@@ -1,4 +1,4 @@
 # Python-Fidget-Spinner-Game
 
 
-[<img src="snap.gif.gif">]
+[<img src="snap.gif">]
